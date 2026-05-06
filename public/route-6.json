@@ -1,0 +1,1505 @@
+{
+    "city": "Luimneach",
+    "country": "ie",
+    "updated_datetime": "2023-04-01T08:03:11+00:00",
+    "created_datetime": "2023-04-01T08:03:04+00:00",
+    "data_source": "run:RE",
+    "description": "",
+    "distance": 9826.708486483887,
+    "name": "6 Mile GLR",
+    "postal_code": "",
+    "state": "M",
+    "starting_location": {
+        "type": "Point",
+        "coordinates": [
+            -8.628400000000001,
+            52.659290000000006
+        ]
+    },
+    "start_point_type": "",
+    "points": [
+        {
+            "lng": -8.6284,
+            "lat": 52.65929,
+            "ele": 15.77,
+            "dis": 0.0,
+            "order": "0"
+        },
+        {
+            "lng": -8.62745,
+            "lat": 52.66006,
+            "ele": 15.08,
+            "dis": 107.06,
+            "order": "0"
+        },
+        {
+            "lng": -8.62755,
+            "lat": 52.66013,
+            "ele": 15.31,
+            "dis": 117.37,
+            "order": "0"
+        },
+        {
+            "lng": -8.62766,
+            "lat": 52.66018,
+            "ele": 15.43,
+            "dis": 126.65,
+            "notes": "Walk north-east on Pery Square towards Mallow St:52.6592891:-8.628402000000001:4~Continue onto Pery St:52.659323:-8.6283671:103~Turn left onto Glentworth St:52.6600581:-8.6274452:20",
+            "order": "1",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.62766,
+            "lat": 52.66018,
+            "ele": 15.43,
+            "dis": 126.65,
+            "order": "0"
+        },
+        {
+            "lng": -8.62924,
+            "lat": 52.66078,
+            "ele": 15.79,
+            "dis": 252.52,
+            "notes": "Walk north-west on Glentworth St towards Catherine St:52.6601762:-8.6276639:126",
+            "order": "2",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.62924,
+            "lat": 52.66078,
+            "ele": 15.79,
+            "dis": 252.52,
+            "order": "0"
+        },
+        {
+            "lng": -8.63045,
+            "lat": 52.66125,
+            "ele": 14.73,
+            "dis": 349.53,
+            "order": "0"
+        },
+        {
+            "lng": -8.63112,
+            "lat": 52.6615,
+            "ele": 13.39,
+            "dis": 402.64,
+            "order": "0"
+        },
+        {
+            "lng": -8.63115,
+            "lat": 52.66147,
+            "ele": 13.51,
+            "dis": 406.55,
+            "notes": "Walk north-west on Glentworth St towards O'Connell St/R527:52.6607783:-8.629241799999999:38~Continue onto Lower Glentworth St:52.6609612:-8.629717399999999:112~Turn left onto Henry St/R527:52.6614976:-8.631120200000002:3",
+            "order": "3",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63115,
+            "lat": 52.66147,
+            "ele": 13.51,
+            "dis": 406.55,
+            "order": "0"
+        },
+        {
+            "lng": -8.6301,
+            "lat": 52.66252,
+            "ele": 11.59,
+            "dis": 543.25,
+            "order": "0"
+        },
+        {
+            "lng": -8.62941,
+            "lat": 52.66316,
+            "ele": 10.56,
+            "dis": 628.38,
+            "notes": "Walk north-east on Henry St/R527 towards Lower Glentworth StDestination will be on the left:52.6614703:-8.6311508:221",
+            "order": "4",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.62941,
+            "lat": 52.66316,
+            "ele": 10.56,
+            "dis": 628.38,
+            "order": "0"
+        },
+        {
+            "lng": -8.62814,
+            "lat": 52.66438,
+            "ele": 9.86,
+            "dis": 788.99,
+            "notes": "Walk north-east on Henry St/R445/R527 towards Bedford Row:52.6631598:-8.6294094:161",
+            "order": "5",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.62814,
+            "lat": 52.66438,
+            "ele": 9.86,
+            "dis": 788.99,
+            "order": "0"
+        },
+        {
+            "lng": -8.6292,
+            "lat": 52.66477,
+            "ele": 6.76,
+            "dis": 872.69,
+            "order": "0"
+        },
+        {
+            "lng": -8.62946,
+            "lat": 52.66489,
+            "ele": 5.74,
+            "dis": 894.75,
+            "order": "0"
+        },
+        {
+            "lng": -8.62975,
+            "lat": 52.66507,
+            "ele": 4.43,
+            "dis": 922.76,
+            "order": "0"
+        },
+        {
+            "lng": -8.63115,
+            "lat": 52.66598,
+            "ele": 3.24,
+            "dis": 1061.31,
+            "order": "0"
+        },
+        {
+            "lng": -8.63127,
+            "lat": 52.66591,
+            "ele": 3.14,
+            "dis": 1072.55,
+            "notes": "Walk north-west on Sarsfield St/R445/R857 towards O'Callaghan StrandContinue to follow R445/R857:52.6643803:-8.628135499999999:272~Turn left onto O'Callaghan StrandDestination will be on the left:52.6659796:-8.6311485:11",
+            "order": "6",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63127,
+            "lat": 52.66591,
+            "ele": 3.14,
+            "dis": 1072.55,
+            "order": "0"
+        },
+        {
+            "lng": -8.63151,
+            "lat": 52.66577,
+            "ele": 2.8,
+            "dis": 1095.03,
+            "order": "0"
+        },
+        {
+            "lng": -8.63201,
+            "lat": 52.66528,
+            "ele": 1.83,
+            "dis": 1159.18,
+            "order": "0"
+        },
+        {
+            "lng": -8.63341,
+            "lat": 52.66398,
+            "ele": 1.49,
+            "dis": 1332.03,
+            "order": "0"
+        },
+        {
+            "lng": -8.63377,
+            "lat": 52.66367,
+            "ele": 0.95,
+            "dis": 1374.24,
+            "order": "0"
+        },
+        {
+            "lng": -8.63398,
+            "lat": 52.66351,
+            "ele": 0.58,
+            "dis": 1397.0,
+            "order": "0"
+        },
+        {
+            "lng": -8.63442,
+            "lat": 52.6633,
+            "ele": 0.16,
+            "dis": 1434.8,
+            "order": "0"
+        },
+        {
+            "lng": -8.63468,
+            "lat": 52.6632,
+            "ele": 0.64,
+            "dis": 1455.59,
+            "order": "0"
+        },
+        {
+            "lng": -8.63483,
+            "lat": 52.66317,
+            "ele": 0.78,
+            "dis": 1466.25,
+            "order": "0"
+        },
+        {
+            "lng": -8.63501,
+            "lat": 52.66321,
+            "ele": 0.59,
+            "dis": 1479.2,
+            "order": "0"
+        },
+        {
+            "lng": -8.63644,
+            "lat": 52.66368,
+            "ele": 2.08,
+            "dis": 1589.01,
+            "notes": "Walk south-west on O'Callaghan Strand towards Strandville Gardens:52.665909:-8.6312684:393~Slight right onto N Circular Rd:52.66317429999999:-8.634830899999999:123",
+            "order": "7",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63644,
+            "lat": 52.66368,
+            "ele": 2.08,
+            "dis": 1589.01,
+            "order": "0"
+        },
+        {
+            "lng": -8.63744,
+            "lat": 52.664,
+            "ele": 3.44,
+            "dis": 1665.34,
+            "order": "0"
+        },
+        {
+            "lng": -8.63787,
+            "lat": 52.66411,
+            "ele": 3.41,
+            "dis": 1696.85,
+            "order": "0"
+        },
+        {
+            "lng": -8.63825,
+            "lat": 52.66417,
+            "ele": 3.12,
+            "dis": 1723.36,
+            "order": "0"
+        },
+        {
+            "lng": -8.63854,
+            "lat": 52.66421,
+            "ele": 3.25,
+            "dis": 1743.44,
+            "notes": "Walk north-west on N Circular Rd towards Fernhill:52.6636756:-8.6364439:154",
+            "order": "8",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63854,
+            "lat": 52.66421,
+            "ele": 3.25,
+            "dis": 1743.44,
+            "order": "0"
+        },
+        {
+            "lng": -8.63882,
+            "lat": 52.66423,
+            "ele": 3.34,
+            "dis": 1762.47,
+            "order": "0"
+        },
+        {
+            "lng": -8.63904,
+            "lat": 52.6642,
+            "ele": 3.17,
+            "dis": 1777.7,
+            "order": "0"
+        },
+        {
+            "lng": -8.63931,
+            "lat": 52.66418,
+            "ele": 3.06,
+            "dis": 1796.06,
+            "order": "0"
+        },
+        {
+            "lng": -8.63935,
+            "lat": 52.66417,
+            "ele": 3.02,
+            "dis": 1798.98,
+            "notes": "Walk west on N Circular Rd:52.66420859999999:-8.6385403:34~Slight right:52.66419519999999:-8.6390351:21",
+            "order": "9",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63935,
+            "lat": 52.66417,
+            "ele": 3.02,
+            "dis": 1798.98,
+            "order": "0"
+        },
+        {
+            "lng": -8.63948,
+            "lat": 52.66415,
+            "ele": 3.0,
+            "dis": 1808.04,
+            "order": "0"
+        },
+        {
+            "lng": -8.6395,
+            "lat": 52.66416,
+            "ele": 3.0,
+            "dis": 1809.79,
+            "order": "0"
+        },
+        {
+            "lng": -8.63957,
+            "lat": 52.66418,
+            "ele": 3.06,
+            "dis": 1815.01,
+            "order": "0"
+        },
+        {
+            "lng": -8.63965,
+            "lat": 52.6642,
+            "ele": 3.16,
+            "dis": 1820.85,
+            "order": "0"
+        },
+        {
+            "lng": -8.63972,
+            "lat": 52.66424,
+            "ele": 3.35,
+            "dis": 1827.35,
+            "notes": "Walk west:52.6641706:-8.6393475:9~At the roundabout, take the 2nd exit:52.6641432:-8.6394678:21",
+            "order": "10",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63972,
+            "lat": 52.66424,
+            "ele": 3.35,
+            "dis": 1827.35,
+            "order": "0"
+        },
+        {
+            "lng": -8.63989,
+            "lat": 52.66433,
+            "ele": 3.78,
+            "dis": 1842.58,
+            "order": "0"
+        },
+        {
+            "lng": -8.63995,
+            "lat": 52.66433,
+            "ele": 3.78,
+            "dis": 1846.63,
+            "notes": "Walk north-west towards Shelbourne Rd Lower/R464:52.664244:-8.6397228:15~Slight left onto N Circular Rd:52.6643299:-8.639892399999999:4",
+            "order": "11",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63995,
+            "lat": 52.66433,
+            "ele": 3.78,
+            "dis": 1846.63,
+            "order": "0"
+        },
+        {
+            "lng": -8.64156,
+            "lat": 52.66445,
+            "ele": 5.66,
+            "dis": 1956.15,
+            "order": "0"
+        },
+        {
+            "lng": -8.64254,
+            "lat": 52.66451,
+            "ele": 5.03,
+            "dis": 2022.65,
+            "order": "0"
+        },
+        {
+            "lng": -8.64352,
+            "lat": 52.66457,
+            "ele": 5.02,
+            "dis": 2089.15,
+            "order": "0"
+        },
+        {
+            "lng": -8.64418,
+            "lat": 52.66458,
+            "ele": 5.48,
+            "dis": 2133.72,
+            "order": "0"
+        },
+        {
+            "lng": -8.64495,
+            "lat": 52.66455,
+            "ele": 5.3,
+            "dis": 2185.81,
+            "order": "0"
+        },
+        {
+            "lng": -8.64564,
+            "lat": 52.66449,
+            "ele": 5.71,
+            "dis": 2232.87,
+            "order": "0"
+        },
+        {
+            "lng": -8.64639,
+            "lat": 52.66437,
+            "ele": 5.22,
+            "dis": 2285.24,
+            "order": "0"
+        },
+        {
+            "lng": -8.64687,
+            "lat": 52.66426,
+            "ele": 4.8,
+            "dis": 2319.88,
+            "notes": "Walk west on N Circular RdDestination will be on the right:52.66433240000001:-8.639948:473",
+            "order": "12",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.64687,
+            "lat": 52.66426,
+            "ele": 4.8,
+            "dis": 2319.88,
+            "order": "0"
+        },
+        {
+            "lng": -8.64762,
+            "lat": 52.66406,
+            "ele": 5.0,
+            "dis": 2375.19,
+            "order": "0"
+        },
+        {
+            "lng": -8.64798,
+            "lat": 52.66392,
+            "ele": 5.0,
+            "dis": 2404.07,
+            "order": "0"
+        },
+        {
+            "lng": -8.64832,
+            "lat": 52.6638,
+            "ele": 5.0,
+            "dis": 2430.63,
+            "order": "0"
+        },
+        {
+            "lng": -8.64864,
+            "lat": 52.66365,
+            "ele": 5.65,
+            "dis": 2457.93,
+            "order": "0"
+        },
+        {
+            "lng": -8.64894,
+            "lat": 52.6635,
+            "ele": 6.02,
+            "dis": 2484.18,
+            "order": "0"
+        },
+        {
+            "lng": -8.64913,
+            "lat": 52.66339,
+            "ele": 6.09,
+            "dis": 2501.92,
+            "order": "0"
+        },
+        {
+            "lng": -8.65014,
+            "lat": 52.6627,
+            "ele": 5.69,
+            "dis": 2604.63,
+            "order": "0"
+        },
+        {
+            "lng": -8.65035,
+            "lat": 52.6626,
+            "ele": 5.71,
+            "dis": 2622.65,
+            "order": "0"
+        },
+        {
+            "lng": -8.65056,
+            "lat": 52.66252,
+            "ele": 5.74,
+            "dis": 2639.4,
+            "order": "0"
+        },
+        {
+            "lng": -8.65092,
+            "lat": 52.66243,
+            "ele": 5.66,
+            "dis": 2665.69,
+            "order": "0"
+        },
+        {
+            "lng": -8.65176,
+            "lat": 52.66219,
+            "ele": 4.74,
+            "dis": 2728.38,
+            "order": "0"
+        },
+        {
+            "lng": -8.65221,
+            "lat": 52.66205,
+            "ele": 5.14,
+            "dis": 2762.52,
+            "order": "0"
+        },
+        {
+            "lng": -8.65251,
+            "lat": 52.66192,
+            "ele": 5.24,
+            "dis": 2787.42,
+            "order": "0"
+        },
+        {
+            "lng": -8.65278,
+            "lat": 52.66179,
+            "ele": 5.21,
+            "dis": 2810.69,
+            "order": "0"
+        },
+        {
+            "lng": -8.6534,
+            "lat": 52.66142,
+            "ele": 4.98,
+            "dis": 2869.42,
+            "order": "0"
+        },
+        {
+            "lng": -8.65436,
+            "lat": 52.66069,
+            "ele": 3.68,
+            "dis": 2973.37,
+            "order": "0"
+        },
+        {
+            "lng": -8.65472,
+            "lat": 52.66044,
+            "ele": 2.93,
+            "dis": 3010.32,
+            "order": "0"
+        },
+        {
+            "lng": -8.65497,
+            "lat": 52.66032,
+            "ele": 2.52,
+            "dis": 3031.84,
+            "order": "0"
+        },
+        {
+            "lng": -8.6553,
+            "lat": 52.66025,
+            "ele": 2.56,
+            "dis": 3055.45,
+            "order": "0"
+        },
+        {
+            "lng": -8.65559,
+            "lat": 52.66021,
+            "ele": 2.72,
+            "dis": 3075.53,
+            "order": "0"
+        },
+        {
+            "lng": -8.65589,
+            "lat": 52.66021,
+            "ele": 3.03,
+            "dis": 3095.79,
+            "order": "0"
+        },
+        {
+            "lng": -8.65627,
+            "lat": 52.66023,
+            "ele": 3.25,
+            "dis": 3121.54,
+            "order": "0"
+        },
+        {
+            "lng": -8.65658,
+            "lat": 52.6603,
+            "ele": 3.76,
+            "dis": 3143.87,
+            "order": "0"
+        },
+        {
+            "lng": -8.65691,
+            "lat": 52.66042,
+            "ele": 4.52,
+            "dis": 3169.85,
+            "order": "0"
+        },
+        {
+            "lng": -8.65756,
+            "lat": 52.66075,
+            "ele": 5.7,
+            "dis": 3227.09,
+            "order": "0"
+        },
+        {
+            "lng": -8.65794,
+            "lat": 52.66098,
+            "ele": 6.34,
+            "dis": 3263.33,
+            "order": "0"
+        },
+        {
+            "lng": -8.65836,
+            "lat": 52.66131,
+            "ele": 6.48,
+            "dis": 3309.74,
+            "order": "0"
+        },
+        {
+            "lng": -8.65864,
+            "lat": 52.66164,
+            "ele": 5.86,
+            "dis": 3351.05,
+            "notes": "Walk south-west on N Circular Rd towards Westfield ParkDestination will be on the right:52.6642625:-8.6468718:1030",
+            "order": "13",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65864,
+            "lat": 52.66164,
+            "ele": 5.86,
+            "dis": 3351.05,
+            "order": "0"
+        },
+        {
+            "lng": -8.6588,
+            "lat": 52.66188,
+            "ele": 6.09,
+            "dis": 3379.87,
+            "order": "0"
+        },
+        {
+            "lng": -8.65888,
+            "lat": 52.66211,
+            "ele": 6.63,
+            "dis": 3406.04,
+            "order": "0"
+        },
+        {
+            "lng": -8.65896,
+            "lat": 52.66251,
+            "ele": 7.77,
+            "dis": 3450.89,
+            "order": "0"
+        },
+        {
+            "lng": -8.65896,
+            "lat": 52.66271,
+            "ele": 8.37,
+            "dis": 3473.16,
+            "order": "0"
+        },
+        {
+            "lng": -8.65893,
+            "lat": 52.66287,
+            "ele": 8.99,
+            "dis": 3491.08,
+            "order": "0"
+        },
+        {
+            "lng": -8.6588,
+            "lat": 52.6631,
+            "ele": 10.39,
+            "dis": 3518.15,
+            "order": "0"
+        },
+        {
+            "lng": -8.65854,
+            "lat": 52.66338,
+            "ele": 12.61,
+            "dis": 3553.92,
+            "order": "0"
+        },
+        {
+            "lng": -8.65829,
+            "lat": 52.66358,
+            "ele": 13.14,
+            "dis": 3581.86,
+            "order": "0"
+        },
+        {
+            "lng": -8.65791,
+            "lat": 52.6638,
+            "ele": 12.89,
+            "dis": 3617.33,
+            "order": "0"
+        },
+        {
+            "lng": -8.65742,
+            "lat": 52.66406,
+            "ele": 13.3,
+            "dis": 3661.29,
+            "order": "0"
+        },
+        {
+            "lng": -8.65701,
+            "lat": 52.66422,
+            "ele": 14.09,
+            "dis": 3694.2,
+            "order": "0"
+        },
+        {
+            "lng": -8.65629,
+            "lat": 52.66441,
+            "ele": 14.71,
+            "dis": 3747.21,
+            "order": "0"
+        },
+        {
+            "lng": -8.65464,
+            "lat": 52.66475,
+            "ele": 13.6,
+            "dis": 3864.86,
+            "notes": "Walk north-west on N Circular Rd towards Bracken GardensDestination will be on the right:52.6616396:-8.6586414:514",
+            "order": "14",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65464,
+            "lat": 52.66475,
+            "ele": 13.6,
+            "dis": 3864.86,
+            "order": "0"
+        },
+        {
+            "lng": -8.65325,
+            "lat": 52.66507,
+            "ele": 14.08,
+            "dis": 3965.24,
+            "order": "0"
+        },
+        {
+            "lng": -8.65097,
+            "lat": 52.66555,
+            "ele": 14.77,
+            "dis": 4128.18,
+            "order": "0"
+        },
+        {
+            "lng": -8.65012,
+            "lat": 52.66568,
+            "ele": 13.26,
+            "dis": 4187.36,
+            "order": "0"
+        },
+        {
+            "lng": -8.64931,
+            "lat": 52.66576,
+            "ele": 12.93,
+            "dis": 4242.76,
+            "order": "0"
+        },
+        {
+            "lng": -8.64864,
+            "lat": 52.66585,
+            "ele": 13.63,
+            "dis": 4289.09,
+            "order": "0"
+        },
+        {
+            "lng": -8.64827,
+            "lat": 52.6659,
+            "ele": 14.0,
+            "dis": 4314.68,
+            "order": "0"
+        },
+        {
+            "lng": -8.64766,
+            "lat": 52.66595,
+            "ele": 14.0,
+            "dis": 4356.24,
+            "order": "0"
+        },
+        {
+            "lng": -8.64693,
+            "lat": 52.66598,
+            "ele": 14.0,
+            "dis": 4405.64,
+            "order": "0"
+        },
+        {
+            "lng": -8.64563,
+            "lat": 52.66598,
+            "ele": 13.76,
+            "dis": 4493.4,
+            "order": "0"
+        },
+        {
+            "lng": -8.6426,
+            "lat": 52.66594,
+            "ele": 13.49,
+            "dis": 4698.01,
+            "order": "0"
+        },
+        {
+            "lng": -8.64088,
+            "lat": 52.66592,
+            "ele": 12.31,
+            "dis": 4814.15,
+            "notes": "Walk east on N Circular Rd towards Fortmary ParkDestination will be on the right:52.6647544:-8.6546427:949",
+            "order": "15",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.64088,
+            "lat": 52.66592,
+            "ele": 12.31,
+            "dis": 4814.15,
+            "order": "0"
+        },
+        {
+            "lng": -8.64093,
+            "lat": 52.66695,
+            "ele": 15.0,
+            "dis": 4928.86,
+            "order": "0"
+        },
+        {
+            "lng": -8.64247,
+            "lat": 52.66693,
+            "ele": 15.66,
+            "dis": 5032.84,
+            "order": "0"
+        },
+        {
+            "lng": -8.64281,
+            "lat": 52.66692,
+            "ele": 15.7,
+            "dis": 5055.82,
+            "notes": "Walk north towards Ennis Rd/R445/R857:52.6659184:-8.6408775:115~Turn left onto Ennis Rd/R445/R857:52.66695319999999:-8.6409331:126",
+            "order": "16",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.64281,
+            "lat": 52.66692,
+            "ele": 15.7,
+            "dis": 5055.82,
+            "order": "0"
+        },
+        {
+            "lng": -8.64481,
+            "lat": 52.66688,
+            "ele": 13.68,
+            "dis": 5190.92,
+            "order": "0"
+        },
+        {
+            "lng": -8.64577,
+            "lat": 52.66686,
+            "ele": 14.17,
+            "dis": 5255.76,
+            "order": "0"
+        },
+        {
+            "lng": -8.646,
+            "lat": 52.66688,
+            "ele": 14.26,
+            "dis": 5271.45,
+            "order": "0"
+        },
+        {
+            "lng": -8.64635,
+            "lat": 52.66695,
+            "ele": 14.34,
+            "dis": 5296.33,
+            "notes": "Walk west on Ennis Rd/R445/R857 towards Lansdowne ParkDestination will be on the left:52.6669223:-8.6428102:240",
+            "order": "17",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.64635,
+            "lat": 52.66695,
+            "ele": 14.34,
+            "dis": 5296.33,
+            "order": "0"
+        },
+        {
+            "lng": -8.64925,
+            "lat": 52.66769,
+            "ele": 16.53,
+            "dis": 5508.73,
+            "order": "0"
+        },
+        {
+            "lng": -8.64958,
+            "lat": 52.66778,
+            "ele": 17.0,
+            "dis": 5533.16,
+            "notes": "Walk west on Ennis Rd/R445/R857 towards Hazeldene Dr:52.6669466:-8.646352199999999:236",
+            "order": "18",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.64958,
+            "lat": 52.66778,
+            "ele": 17.0,
+            "dis": 5533.16,
+            "order": "0"
+        },
+        {
+            "lng": -8.65208,
+            "lat": 52.66846,
+            "ele": 15.55,
+            "dis": 5718.12,
+            "order": "0"
+        },
+        {
+            "lng": -8.65418,
+            "lat": 52.66901,
+            "ele": 11.39,
+            "dis": 5872.54,
+            "order": "0"
+        },
+        {
+            "lng": -8.65628,
+            "lat": 52.66958,
+            "ele": 7.71,
+            "dis": 6027.86,
+            "notes": "Walk north-west on Ennis Rd/R445/R857 towards HighfieldDestination will be on the left:52.6677799:-8.6495801:494",
+            "order": "19",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65628,
+            "lat": 52.66958,
+            "ele": 7.71,
+            "dis": 6027.86,
+            "order": "0"
+        },
+        {
+            "lng": -8.65652,
+            "lat": 52.66964,
+            "ele": 7.12,
+            "dis": 6045.38,
+            "order": "0"
+        },
+        {
+            "lng": -8.6565,
+            "lat": 52.66977,
+            "ele": 6.81,
+            "dis": 6059.92,
+            "order": "0"
+        },
+        {
+            "lng": -8.65656,
+            "lat": 52.67039,
+            "ele": 5.72,
+            "dis": 6129.05,
+            "order": "0"
+        },
+        {
+            "lng": -8.65656,
+            "lat": 52.67078,
+            "ele": 5.31,
+            "dis": 6172.47,
+            "order": "0"
+        },
+        {
+            "lng": -8.65642,
+            "lat": 52.67126,
+            "ele": 5.23,
+            "dis": 6226.73,
+            "order": "0"
+        },
+        {
+            "lng": -8.65631,
+            "lat": 52.67155,
+            "ele": 5.36,
+            "dis": 6259.86,
+            "order": "0"
+        },
+        {
+            "lng": -8.65627,
+            "lat": 52.67172,
+            "ele": 5.4,
+            "dis": 6278.97,
+            "order": "0"
+        },
+        {
+            "lng": -8.65628,
+            "lat": 52.67179,
+            "ele": 5.32,
+            "dis": 6286.8,
+            "notes": "Walk north-west on Ennis Rd/R445/R857 towards Corrib Dr:52.6695784:-8.6562812:17~Turn right onto Corrib Dr:52.6696425:-8.656516:240",
+            "order": "20",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65628,
+            "lat": 52.67179,
+            "ele": 5.32,
+            "dis": 6286.8,
+            "order": "0"
+        },
+        {
+            "lng": -8.65641,
+            "lat": 52.67212,
+            "ele": 4.76,
+            "dis": 6324.56,
+            "order": "0"
+        },
+        {
+            "lng": -8.65651,
+            "lat": 52.67244,
+            "ele": 4.39,
+            "dis": 6360.82,
+            "order": "0"
+        },
+        {
+            "lng": -8.65512,
+            "lat": 52.6726,
+            "ele": 8.48,
+            "dis": 6456.32,
+            "order": "0"
+        },
+        {
+            "lng": -8.65506,
+            "lat": 52.67261,
+            "ele": 8.67,
+            "dis": 6460.52,
+            "notes": "Walk north on Corrib Dr towards Merval Dr:52.6717899:-8.6562818:74~Turn right onto Brookville AveDestination will be on the right:52.6724411:-8.6565128:100",
+            "order": "21",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65506,
+            "lat": 52.67261,
+            "ele": 8.67,
+            "dis": 6460.52,
+            "order": "0"
+        },
+        {
+            "lng": -8.6508,
+            "lat": 52.67313,
+            "ele": 15.09,
+            "dis": 6753.84,
+            "order": "0"
+        },
+        {
+            "lng": -8.65064,
+            "lat": 52.67249,
+            "ele": 15.69,
+            "dis": 6825.9,
+            "order": "0"
+        },
+        {
+            "lng": -8.65067,
+            "lat": 52.67238,
+            "ele": 15.56,
+            "dis": 6838.31,
+            "notes": "Walk east on Brookville Ave towards Lissadell Dr:52.6726114:-8.6550604:293~Turn right onto Lissadell Dr:52.67312889999999:-8.6508038:84",
+            "order": "22",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65067,
+            "lat": 52.67238,
+            "ele": 15.56,
+            "dis": 6838.31,
+            "order": "0"
+        },
+        {
+            "lng": -8.65115,
+            "lat": 52.67091,
+            "ele": 13.33,
+            "dis": 7005.13,
+            "order": "0"
+        },
+        {
+            "lng": -8.65125,
+            "lat": 52.67093,
+            "ele": 13.12,
+            "dis": 7012.24,
+            "notes": "Walk south on Lissadell Dr towards Avondale Dr:52.6723797:-8.6506673:167~Turn right onto Parkview Dr:52.6709066:-8.6511497:7",
+            "order": "23",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65125,
+            "lat": 52.67093,
+            "ele": 13.12,
+            "dis": 7012.24,
+            "order": "0"
+        },
+        {
+            "lng": -8.65183,
+            "lat": 52.67104,
+            "ele": 11.9,
+            "dis": 7053.26,
+            "order": "0"
+        },
+        {
+            "lng": -8.65234,
+            "lat": 52.67107,
+            "ele": 10.9,
+            "dis": 7087.85,
+            "order": "0"
+        },
+        {
+            "lng": -8.65268,
+            "lat": 52.67105,
+            "ele": 10.36,
+            "dis": 7110.91,
+            "order": "0"
+        },
+        {
+            "lng": -8.65394,
+            "lat": 52.67099,
+            "ele": 9.43,
+            "dis": 7196.22,
+            "order": "0"
+        },
+        {
+            "lng": -8.65511,
+            "lat": 52.67092,
+            "ele": 8.83,
+            "dis": 7275.58,
+            "order": "0"
+        },
+        {
+            "lng": -8.65566,
+            "lat": 52.67083,
+            "ele": 7.42,
+            "dis": 7314.04,
+            "order": "0"
+        },
+        {
+            "lng": -8.65618,
+            "lat": 52.67071,
+            "ele": 6.23,
+            "dis": 7351.6,
+            "notes": "Walk west on Parkview Dr towards Aisling DrDestination will be on the left:52.6709284:-8.651250899999999:339",
+            "order": "24",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65618,
+            "lat": 52.67071,
+            "ele": 6.23,
+            "dis": 7351.6,
+            "order": "0"
+        },
+        {
+            "lng": -8.65657,
+            "lat": 52.67063,
+            "ele": 5.45,
+            "dis": 7379.39,
+            "order": "0"
+        },
+        {
+            "lng": -8.6565,
+            "lat": 52.66984,
+            "ele": 6.62,
+            "dis": 7467.46,
+            "order": "0"
+        },
+        {
+            "lng": -8.65652,
+            "lat": 52.66964,
+            "ele": 7.12,
+            "dis": 7489.76,
+            "order": "0"
+        },
+        {
+            "lng": -8.65547,
+            "lat": 52.66936,
+            "ele": 10.18,
+            "dis": 7567.19,
+            "notes": "Walk west on Parkview Dr towards Corrib Dr:52.6707089:-8.6561793:28~Turn left onto Corrib Dr:52.6706349:-8.6565718:111~Turn left onto Ennis Rd/R445/R857Destination will be on the left:52.6696425:-8.656516:77",
+            "order": "25",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65547,
+            "lat": 52.66936,
+            "ele": 10.18,
+            "dis": 7567.19,
+            "order": "0"
+        },
+        {
+            "lng": -8.65178,
+            "lat": 52.66838,
+            "ele": 16.56,
+            "dis": 7839.13,
+            "notes": "Walk south-east on Ennis Rd/R445/R857 towards Fortmary ParkDestination will be on the left:52.66936:-8.65547:271",
+            "order": "26",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.65178,
+            "lat": 52.66838,
+            "ele": 16.56,
+            "dis": 7839.13,
+            "order": "0"
+        },
+        {
+            "lng": -8.64917,
+            "lat": 52.66767,
+            "ele": 16.41,
+            "dis": 8032.24,
+            "order": "0"
+        },
+        {
+            "lng": -8.64711,
+            "lat": 52.66713,
+            "ele": 14.56,
+            "dis": 8183.75,
+            "order": "0"
+        },
+        {
+            "lng": -8.64616,
+            "lat": 52.6669,
+            "ele": 14.28,
+            "dis": 8252.8,
+            "order": "0"
+        },
+        {
+            "lng": -8.6459,
+            "lat": 52.66687,
+            "ele": 14.24,
+            "dis": 8270.67,
+            "order": "0"
+        },
+        {
+            "lng": -8.64533,
+            "lat": 52.66687,
+            "ele": 13.79,
+            "dis": 8309.15,
+            "order": "0"
+        },
+        {
+            "lng": -8.64337,
+            "lat": 52.66691,
+            "ele": 15.65,
+            "dis": 8441.54,
+            "order": "0"
+        },
+        {
+            "lng": -8.64221,
+            "lat": 52.66694,
+            "ele": 15.44,
+            "dis": 8519.93,
+            "notes": "Walk south-east on Ennis Rd/R445/R857 towards WatervilleDestination will be on the left:52.6683827:-8.6517781:680",
+            "order": "27",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.64221,
+            "lat": 52.66694,
+            "ele": 15.44,
+            "dis": 8519.93,
+            "order": "0"
+        },
+        {
+            "lng": -8.63829,
+            "lat": 52.66701,
+            "ele": 14.41,
+            "dis": 8784.68,
+            "notes": "Walk east on Ennis Rd/R445/R857 towards Elm Park:52.6669351:-8.6422098:264",
+            "order": "28",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63829,
+            "lat": 52.66701,
+            "ele": 14.41,
+            "dis": 8784.68,
+            "order": "0"
+        },
+        {
+            "lng": -8.63505,
+            "lat": 52.66707,
+            "ele": 13.54,
+            "dis": 9003.51,
+            "order": "0"
+        },
+        {
+            "lng": -8.63428,
+            "lat": 52.66703,
+            "ele": 12.57,
+            "dis": 9055.68,
+            "notes": "Walk east on Ennis Rd/R445/R857 towards Lansdowne Gardens:52.6670083:-8.6382899:271",
+            "order": "29",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63428,
+            "lat": 52.66703,
+            "ele": 12.57,
+            "dis": 9055.68,
+            "order": "0"
+        },
+        {
+            "lng": -8.633,
+            "lat": 52.66691,
+            "ele": 10.21,
+            "dis": 9143.12,
+            "order": "0"
+        },
+        {
+            "lng": -8.63265,
+            "lat": 52.66684,
+            "ele": 8.92,
+            "dis": 9168.0,
+            "order": "0"
+        },
+        {
+            "lng": -8.63245,
+            "lat": 52.66678,
+            "ele": 8.1,
+            "dis": 9183.06,
+            "order": "0"
+        },
+        {
+            "lng": -8.63222,
+            "lat": 52.66666,
+            "ele": 6.97,
+            "dis": 9203.55,
+            "order": "0"
+        },
+        {
+            "lng": -8.63134,
+            "lat": 52.6661,
+            "ele": 3.51,
+            "dis": 9289.66,
+            "notes": "Walk east on Ennis Rd/R445/R857 towards Vereker Gardens:52.6670278:-8.6342805:233",
+            "order": "30",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.63134,
+            "lat": 52.6661,
+            "ele": 3.51,
+            "dis": 9289.66,
+            "order": "0"
+        },
+        {
+            "lng": -8.62962,
+            "lat": 52.66498,
+            "ele": 5.0,
+            "dis": 9460.04,
+            "order": "0"
+        },
+        {
+            "lng": -8.62933,
+            "lat": 52.66482,
+            "ele": 6.3,
+            "dis": 9486.51,
+            "order": "0"
+        },
+        {
+            "lng": -8.62914,
+            "lat": 52.66475,
+            "ele": 6.98,
+            "dis": 9501.51,
+            "order": "0"
+        },
+        {
+            "lng": -8.62699,
+            "lat": 52.66394,
+            "ele": 10.88,
+            "dis": 9672.39,
+            "notes": "Walk south-east on Ennis Rd/R445/R857 towards O'Callaghan StrandContinue to follow R445/R857:52.6661006:-8.631338999999999:291~Continue onto Sarsfield St/R527Destination will be on the left:52.6643803:-8.628135499999999:92",
+            "order": "31",
+            "travel_mode": "1"
+        },
+        {
+            "lng": -8.62699,
+            "lat": 52.66394,
+            "ele": 10.88,
+            "dis": 9672.39,
+            "order": "0"
+        },
+        {
+            "lng": -8.62673,
+            "lat": 52.66384,
+            "ele": 11.32,
+            "dis": 9693.18,
+            "order": "0"
+        },
+        {
+            "lng": -8.62734,
+            "lat": 52.66322,
+            "ele": 11.6,
+            "dis": 9773.55,
+            "order": "0"
+        },
+        {
+            "lng": -8.62777,
+            "lat": 52.66282,
+            "ele": 12.85,
+            "dis": 9826.71,
+            "notes": "Walk south-east on Sarsfield St/R527 towards O'Connell St/R445:52.6639371:-8.6269931:21~Turn right onto O'Connell St/R445:52.6638367:-8.6267343:133",
+            "order": "32",
+            "travel_mode": "1"
+        }
+    ],
+    "climbs": [],
+    "total_ascent": 44.8,
+    "total_descent": -50.1,
+    "max_elevation": 17.0,
+    "min_elevation": 0.16,
+    "images": [],
+    "_links": {
+        "self": [
+            {
+                "href": "/v7.2/route/5464820839/?field_set=detailed_internal",
+                "id": "5464820839"
+            }
+        ],
+        "privacy": [
+            {
+                "href": "/v7.2/privacy_option/3/",
+                "id": "3"
+            }
+        ],
+        "user": [
+            {
+                "href": "/v7.2/user/131800558/",
+                "id": "131800558"
+            }
+        ],
+        "activity_types": [
+            {
+                "href": "/v7.2/activity_type/16/",
+                "id": "16"
+            }
+        ],
+        "thumbnail": [
+            {
+                "href": "//drzetlglcbfx.cloudfront.net/routes/thumbnail/5464820839/1680336191?size=100x100"
+            }
+        ],
+        "alternate": [
+            {
+                "href": "/v7.2/route/5464820839/?format=kml&field_set=detailed",
+                "id": "5464820839",
+                "name": "kml"
+            },
+            {
+                "href": "/v7.2/route/5464820839/?format=gpx&field_set=detailed",
+                "id": "5464820839",
+                "name": "gpx"
+            }
+        ],
+        "documentation": [
+            {
+                "href": "https://developer.mapmyfitness.com/docs/v72_Route"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "race-viz",
+  "version": "1.0.0",
+  "description": "Race results data visualisation",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-results.js",
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
